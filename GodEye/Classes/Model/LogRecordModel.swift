@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import Log4G
+//import Log4G
 
 enum LogRecordModelType:Int {
     case asl = 1
